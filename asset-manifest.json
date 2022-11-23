@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airbnb-clone/static/css/main.c9a79ffb.css",
+    "main.js": "/airbnb-clone/static/js/main.e615d00a.js",
+    "static/media/house1.jpeg": "/airbnb-clone/static/media/house1.1cef0a9cb726fe24463e.jpeg",
+    "static/media/Brazil.png": "/airbnb-clone/static/media/Brazil.b4c9a9dde048b04f267f.png",
+    "static/media/Canada.png": "/airbnb-clone/static/media/Canada.4c42bae9b3b9dcfbbd08.png",
+    "static/media/Malibu.jpeg": "/airbnb-clone/static/media/Malibu.4f025ff2408163335955.jpeg",
+    "static/media/Faroe.jpeg": "/airbnb-clone/static/media/Faroe.19ffc3fe1fca31520054.jpeg",
+    "static/media/Carolina.jpeg": "/airbnb-clone/static/media/Carolina.1c72774d7ec2b599f38b.jpeg",
+    "static/media/Pacifico.jpeg": "/airbnb-clone/static/media/Pacifico.e0700269b50f44f78418.jpeg",
+    "static/media/Netherlands.jpeg": "/airbnb-clone/static/media/Netherlands.726cfcc325f057b6245d.jpeg",
+    "static/media/Chile.jpeg": "/airbnb-clone/static/media/Chile.d863f2e6a504af852199.jpeg",
+    "index.html": "/airbnb-clone/index.html",
+    "main.c9a79ffb.css.map": "/airbnb-clone/static/css/main.c9a79ffb.css.map",
+    "main.e615d00a.js.map": "/airbnb-clone/static/js/main.e615d00a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a79ffb.css",
+    "static/js/main.e615d00a.js"
+  ]
+}
